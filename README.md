@@ -8,13 +8,13 @@ A Movie Recommendation system trained on Movielens data 100k using collaborative
   - Reading data into csv file.
   - Data Preprocessing.
   - EDA.
-- ![**Collaborative Filtering***](Collaborative Filtering.ipynb)
+- ![***Collaborative Filtering***](Collaborative_Filtering.ipynb)
   This jupyter-notebook contains the training and evaluation of the model. After the training the embeddings of users and movies are saved. Later, precision@k and     recall@k is calculated for each user.
   - Data preparation for training and validation.
   - Training and evaluating model.
   - Saving embeddings of users and movies.
   - Calculating precision@k and recall@k for each user.
-- ![**Recommend movies***](Recommend movies.ipynb)
+- ![***Recommend movies***](Recommend movies.ipynb)
   This jupyter-notebook contains the filling of rating table for all user-movie as well as recommendation of movies to the user.
   - Filling rating table for all user-movie.
   - Recommending movies to a user.
