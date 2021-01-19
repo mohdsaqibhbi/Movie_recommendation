@@ -20,7 +20,7 @@ A Movie Recommendation system trained on Movielens data 100k using collaborative
   - Recommending movies to a user.
   
 ## How to run
-- Clone the repo using `git https://github.com/mohdsaqibhbi/Movie_recommendation.git`.
+- Clone the repo using `git clone https://github.com/mohdsaqibhbi/Movie_recommendation.git`.
 - Go to this directory using `cd Movie_recommendation`
 - Create virtual environment.
 - Install dependencies using `pip3 install -r requirements.txt`.
